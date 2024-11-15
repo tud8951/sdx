@@ -10,4 +10,4 @@
 
 ![王者荣耀主页](https://bigjackson.us.kg/sdx/wz.jpg)
 
-<font color= #DCDCDC>本网站由[BigJackson制作](https://bigjackson.us.kg)</font>
+< color= #DCDCDC>本网站由[BigJackson制作](https://bigjackson.us.kg)
