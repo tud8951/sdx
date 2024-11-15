@@ -10,4 +10,9 @@
 
 ![王者荣耀主页](https://bigjackson.us.kg/sdx/wz.jpg)
 
-本网站由BigJackson制作
+  	<footer id="v18"> 
+   			<p id="v19">COPYRIGHT © 2020 - 2024 
+
+BIGJACKSON.ALL RIGHTS RESERVED.
+BigJackson 版权所有</p> 
+</footer>
